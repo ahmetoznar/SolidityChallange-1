@@ -17,6 +17,8 @@ And when you send Ether to the wallet to get back DAI tokens, the attacker sends
 
 In this case, how do you get DAI tokens from the wallet in the most secure way?
 
+Note: Assume you don't have an RPC faster than the attacker's RPC.
+
 `Private key of the hacked wallet:`
 
 `Contract address of the token stuck in the wallet:`
