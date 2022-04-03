@@ -21,9 +21,15 @@ Note: Assume you don't have an RPC faster than the attacker's RPC.
 
 `Private key of the hacked wallet:`
 
+ 0xbbf4bf03c1b10091cbb04c49674c12c4e80a7bbfa5f8b276a3f379f2fa56e4fd
+
 `Contract address of the token stuck in the wallet:`
 
+0x5A449Cc7C0Bb5442bF59E144e90dD848B7827e6B
+
 `Contract address to claim the prize:`
+
+0xEBAF23B478A9CFC63ff57696765bAA938bbb56F4
 
 
 The first person who transfers the token from the wallet and calls the "getReward" function in the Reward contract receives 300 USD.
